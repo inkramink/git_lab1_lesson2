@@ -1,5 +1,5 @@
 в демо есть в теле нули, у человека есть шляпа и сапоги
-коммитов 13:
+коммитов 11:
 init
 hesd added
 boots
@@ -10,3 +10,4 @@ zero
 zero zero
 zero zero
 i did it
+i did it v2
