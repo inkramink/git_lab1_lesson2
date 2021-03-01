@@ -1,0 +1,12 @@
+в демо есть в теле нули, у человека есть шляпа и сапоги
+коммитов 13:
+init
+hesd added
+boots
+README added
+dots
+fix readme
+zero
+zero zero
+zero zero
+i did it
